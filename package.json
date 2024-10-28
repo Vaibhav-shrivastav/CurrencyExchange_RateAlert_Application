@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "proxy": "https://web-api.vance.club/public/api/currency-converter/forex?code=AEDINR%3DX&timeline=1M",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,12 +11,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@gsap/react": "^2.1.1",
+    "@mui/material": "^6.1.5",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.5",
     "firebase": "^11.0.0",
     "framer-motion": "^11.11.9",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "recharts": "^2.13.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
