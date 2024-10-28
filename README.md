@@ -1,6 +1,6 @@
 # Currency Exchange Rate Alert Application
 
-The Currency Exchange Rate Alert Application allows users to monitor and receive alerts for currency exchange rates between the UK (GBP) and UAE (AED). The application features an interactive dashboard with real-time exchange rate visualizations, user authentication, and alert management.
+The Currency Exchange Rate Alert Application allows users to monitor and receive alerts for currency exchange rates of UK (GBP) and UAE (AED) to INR. The application features an interactive dashboard with real-time exchange rate visualizations, user authentication, and alert management.
 
 ## Table of Contents
 
