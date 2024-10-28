@@ -40,7 +40,7 @@ The Currency Exchange Rate Alert Application allows users to monitor and receive
 
 ## Deployment
 - This application is being deployed on vercel. Can be accessed here,
-[CurrencyExchange_RateAlert_Application](https://google.com)
+[CurrencyExchange_RateAlert_Application](https://currency-exchange-rate-alert-application.vercel.app/)
 
 ## Getting Started
 1. **Clone the Repository**:
